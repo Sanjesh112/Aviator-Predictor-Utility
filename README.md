@@ -12,4 +12,4 @@ bot in![1](https://github.com/Loketcenter/Aviator-Predictor-Utility/assets/15898
 
 * Install WinRAR or any other archivator
 * Update your Visual C++ or OpenGL runtime
-
+fun 
